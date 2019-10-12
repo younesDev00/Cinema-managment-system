@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AddSession
+comment1.params=
+comment1.target=void\ update()
+comment2.params=cinema
+comment2.target=AddSession(model.Cinema)
+comment3.params=
+comment3.target=void\ setup()
+comment4.params=
+comment4.target=void\ build()
+numComments=5
